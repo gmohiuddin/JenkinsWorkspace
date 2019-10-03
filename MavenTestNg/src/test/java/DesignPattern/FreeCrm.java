@@ -30,7 +30,7 @@ public class FreeCrm {
 	}
 	@AfterMethod
 	public void tearDown() {
-		System.out.println("Add output message at tearDown");
+		System.out.println("Add NEW**********output message at tearDown");
 		TestBase.quit();
 		
 	}
