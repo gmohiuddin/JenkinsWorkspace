@@ -20,6 +20,7 @@ public class FreeCrm {
 	String title = TestBase.driver.getTitle();
 	System.out.println("Actual---------page title is: ------------"+ title);
 	Assert.assertEquals(title, Constants.loginPageTitle);
+	System.out.println(title);
 	}
 
 	@Test(priority=2)

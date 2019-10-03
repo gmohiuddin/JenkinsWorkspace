@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34526" started-at="2019-09-19T15:33:51Z" finished-at="2019-09-19T15:34:26Z">
+  <suite name="Default suite" duration-ms="29352" started-at="2019-10-03T20:25:14Z" finished-at="2019-10-03T20:25:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34526" started-at="2019-09-19T15:33:51Z" finished-at="2019-09-19T15:34:26Z">
+    <test name="Default test" duration-ms="29352" started-at="2019-10-03T20:25:14Z" finished-at="2019-10-03T20:25:43Z">
       <class name="DesignPattern.FreeCrm">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="16441" started-at="2019-09-19T11:33:51Z" finished-at="2019-09-19T11:34:08Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="15571" started-at="2019-10-03T16:25:14Z" finished-at="2019-10-03T16:25:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyFreeCrmTitleTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="verifyFreeCrmTitleTest" duration-ms="87" started-at="2019-09-19T11:34:08Z" finished-at="2019-09-19T11:34:08Z">
+        <test-method status="PASS" signature="verifyFreeCrmTitleTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="verifyFreeCrmTitleTest" duration-ms="70" started-at="2019-10-03T16:25:29Z" finished-at="2019-10-03T16:25:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFreeCrmTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="2290" started-at="2019-09-19T11:34:08Z" finished-at="2019-09-19T11:34:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="1804" started-at="2019-10-03T16:25:30Z" finished-at="2019-10-03T16:25:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="14249" started-at="2019-09-19T11:34:10Z" finished-at="2019-09-19T11:34:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="10007" started-at="2019-10-03T16:25:31Z" finished-at="2019-10-03T16:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="logoTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="logoTest" duration-ms="110" started-at="2019-09-19T11:34:25Z" finished-at="2019-09-19T11:34:25Z">
+        <test-method status="PASS" signature="logoTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="logoTest" duration-ms="104" started-at="2019-10-03T16:25:41Z" finished-at="2019-10-03T16:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="1304" started-at="2019-09-19T11:34:25Z" finished-at="2019-09-19T11:34:26Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="1744" started-at="2019-10-03T16:25:41Z" finished-at="2019-10-03T16:25:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
