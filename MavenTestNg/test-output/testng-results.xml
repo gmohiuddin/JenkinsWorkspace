@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29352" started-at="2019-10-03T20:25:14Z" finished-at="2019-10-03T20:25:43Z">
+  <suite name="Default suite" duration-ms="42388" started-at="2020-01-04T14:59:18 EST" finished-at="2020-01-04T15:00:01 EST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29352" started-at="2019-10-03T20:25:14Z" finished-at="2019-10-03T20:25:43Z">
+    <test name="Default test" duration-ms="42388" started-at="2020-01-04T14:59:18 EST" finished-at="2020-01-04T15:00:01 EST">
       <class name="DesignPattern.FreeCrm">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="15571" started-at="2019-10-03T16:25:14Z" finished-at="2019-10-03T16:25:29Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@133e16fd]" name="setUp" is-config="true" duration-ms="23484" started-at="2020-01-04T14:59:18 EST" finished-at="2020-01-04T14:59:42 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyFreeCrmTitleTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="verifyFreeCrmTitleTest" duration-ms="70" started-at="2019-10-03T16:25:29Z" finished-at="2019-10-03T16:25:30Z">
+        <test-method status="PASS" signature="verifyFreeCrmTitleTest()[pri:1, instance:DesignPattern.FreeCrm@133e16fd]" name="verifyFreeCrmTitleTest" duration-ms="47" started-at="2020-01-04T14:59:42 EST" finished-at="2020-01-04T14:59:42 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFreeCrmTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="1804" started-at="2019-10-03T16:25:30Z" finished-at="2019-10-03T16:25:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@133e16fd]" name="tearDown" is-config="true" duration-ms="1958" started-at="2020-01-04T14:59:42 EST" finished-at="2020-01-04T14:59:44 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="setUp" is-config="true" duration-ms="10007" started-at="2019-10-03T16:25:31Z" finished-at="2019-10-03T16:25:41Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DesignPattern.FreeCrm@133e16fd]" name="setUp" is-config="true" duration-ms="15210" started-at="2020-01-04T14:59:44 EST" finished-at="2020-01-04T14:59:59 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="logoTest()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="logoTest" duration-ms="104" started-at="2019-10-03T16:25:41Z" finished-at="2019-10-03T16:25:41Z">
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:DesignPattern.FreeCrm@133e16fd]" name="logoTest" duration-ms="151" started-at="2020-01-04T14:59:59 EST" finished-at="2020-01-04T14:59:59 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@523884b2]" name="tearDown" is-config="true" duration-ms="1744" started-at="2019-10-03T16:25:41Z" finished-at="2019-10-03T16:25:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DesignPattern.FreeCrm@133e16fd]" name="tearDown" is-config="true" duration-ms="1437" started-at="2020-01-04T14:59:59 EST" finished-at="2020-01-04T15:00:01 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

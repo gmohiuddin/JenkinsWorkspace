@@ -13,7 +13,7 @@ public class TestBase {
 	public static void initialize() {
 		if(driver == null) {
 			if(Constants.browserName.equalsIgnoreCase("chrome")) {
-				System.setProperty("webdriver.chrome.driver","C:/Selenium/Drivers/chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver","C:/Selenium/Drivers/New/chromedriver.exe");
 				driver = new ChromeDriver();
 			}
 			else if(Constants.browserName.equalsIgnoreCase("ie")) {
