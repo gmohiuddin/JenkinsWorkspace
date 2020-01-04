@@ -26,7 +26,7 @@ public class FreeCrm {
 	@Test(priority=2)
 	public void logoTest(){
 	Assert.assertEquals(TestBase.driver.findElement(By.xpath("//*[@id='pbs-close-confirm']")).isEnabled(), true);
-	System.out.println("-------------THURSDAY OCTOBER 3 ----------");
+	System.out.println("-------------Saturday January 2020 ----------");
 	//	TestBase.driver.findElement(By.xpath("//*[@id=\"pbs-close-confirm\"]")).click();
 	}
 	@AfterMethod
